@@ -1,6 +1,6 @@
 # Merchant Subscription Propensity
 
-**Goal**: Identify existing Stripe merchants likely to adopt the "Subscriptions" product to prioritize sales outreach.
+**Goal**: Identify existing merchants likely to adopt the "Subscriptions" product to prioritize sales outreach.
 
 ## Key Results:
 
