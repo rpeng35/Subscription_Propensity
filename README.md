@@ -23,6 +23,7 @@
 
 ## Folder Structure
 
+```text
 Subscription_Propensity/
 ├── data/
 │   └── target_merchants.csv
@@ -38,5 +39,6 @@ Subscription_Propensity/
 ├── LICENSE
 ├── README.md
 └── requirements.txt
+```
 
 **Note on Data**: The raw transaction data (payments.xlsx, merchants.csv) is not included in this repository for privacy reasons.
